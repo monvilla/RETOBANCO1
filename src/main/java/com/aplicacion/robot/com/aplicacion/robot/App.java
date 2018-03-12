@@ -1,20 +1,13 @@
 package com.aplicacion.robot.com.aplicacion.robot;
 
-import java.util.List;
 
-import org.apache.http.impl.conn.tsccm.WaitingThread;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedCondition;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-/**
- * Hello world!
- *
- */
+
+
 public class App 
 {
     public static void main( String[] args ) throws InterruptedException
